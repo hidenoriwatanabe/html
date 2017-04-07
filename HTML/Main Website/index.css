@@ -1,0 +1,26 @@
+@CHARSET "UTF-8";
+body div{
+	font-size: 10px;
+}
+table{
+	text-align :center;
+}
+
+table tr th{
+	font-size: 20px;
+}
+ul li{
+	color: blue;
+}
+a:visited{
+	color: red;
+}
+a:hover{
+	color: pink;
+}
+a:active{
+	color: green;
+}
+.top{
+	text-decoration: none;
+}
